@@ -1,0 +1,25 @@
+[
+  {
+    "topic": "linear regression",
+    "difficulty": "beginner",
+    "content": "Linear regression is a machine learning algorithm used to predict continuous numerical values by finding the best linear relationship between variables."
+  },
+
+  {
+    "topic": "overfitting",
+    "difficulty": "beginner",
+    "content": "Overfitting happens when a machine learning model memorizes training data too closely and performs poorly on unseen data."
+  },
+
+  {
+    "topic": "gradient descent",
+    "difficulty": "beginner",
+    "content": "Gradient descent is an optimization algorithm used to minimize a model's error by adjusting parameters step by step."
+  },
+
+  {
+    "topic": "decision trees",
+    "difficulty": "beginner",
+    "content": "Decision trees are models that make predictions by splitting data into branches based on feature values."
+  }
+]
